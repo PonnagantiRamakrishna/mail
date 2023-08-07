@@ -1,0 +1,127 @@
+<h3 class="payment_title">Payment Processing</h3>
+<p class="payment_text">An incredibly easy method</p>
+https://codepen.io/guagazan/pen/wPXmPQ
+
+https://codepen.io/AndreCortellini/pen/xPMEWK
+
+Blockchain
+Language: English(UK)
+Products
+wallet
+api
+data
+api
+Budiness
+company
+about
+team
+careers
+interviewing
+faq
+Support
+help center
+Tutorials
+Learning portals
+status
+Social
+Facebook
+Linkedin
+Twitter
+ios
+Android
+Blockchain,2018.All rights reseved
+
+Transactions & Blocks Data 
+Blockchain Data API 
+Query JSON data on blocks and transactions. Almost all the data you see on this website is available in JSON format. 
+Simple Query API 
+Simple plain text APP for querying blockchain 
+data.
+ 
+
+Ready To Get Started?
+Create account or get in touch to request a demo
+Register now
+watch video
+
+
+Payment Processing 
+An incredibly easy method for websites to receive bitcoin payments. This service is completely free and secure. Perfect for business or personal use.
+
+Blockchain Wallet 
+Our Apis to send and receive payment from blockchain wallets.
+ <!--Footer-->
+  <footer class="page-footer text-center text-md-left pt-4">
+
+    <!--Footer Links-->
+  <div class="container">
+  <div class="row">
+    <div class="col-md-4">
+      <h5>Blockchain
+</h5>
+      <p>Language: English(UK)</p>
+    </div>
+    <div class="col-md-2">
+     <h5 class="text-uppercase font-weight-bold mb-4">Products</h5>
+          <ul class="list-unstyled text-uppercase">
+            <li><a href="#!">wallet</a></li>
+            <li><a href="#!">api</a></li>
+            <li><a href="#!">data</a></li>
+             <li><a href="#!">api</a></li>
+            <li><a href="#!">Budiness</a></li>
+          </ul>
+    </div>
+    <div class="col-md-2">
+     <h5 class="text-uppercase font-weight-bold mb-4">company</h5>
+          <ul class="list-unstyled text-uppercase">
+            <li><a href="#!">about</a></li>
+            <li><a href="#!">team</a></li>
+            <li><a href="#!">careers</a></li>
+            <li><a href="#!">interviewing</a</li>
+            <li><a href="#!">faq</a></li>
+          </ul>
+    </div>
+    <div class="col-md-2">
+      <h5 class="text-uppercase font-weight-bold mb-4">Support</h5>
+          <ul class="list-unstyled text-uppercase">
+            <li><a href="#!">help center</a></li>
+            <li><a href="#!">Tutorials</a></li>
+            <li><a href="#!">Learning portals</a></li>
+            <li><a href="#!">status</a></li>
+          </ul>
+    </div>
+     <div class="col-md-2 mx-auto">
+          <h5 class="text-uppercase font-weight-bold mb-4">Social</h5>
+          <ul class="text-uppercase list-unstyled">
+            <li><a href="#!">Facebook</a></li>
+            <li><a href="#!">Linkedin</a></li>
+            <li><a href="#!">Twitter</a></li>
+            <li><a href="#!">ios
+</a></li>
+             <li><a href="#!">Android</a></li>
+          </ul>
+        </div>
+  </div>
+</div>
+ 
+    <!--/.Footer Links-->
+<hr/>
+    <!--Copyright-->
+    <div class="footer-copyright py-3 text-center">
+      <div class="container-fluid">
+        © Blockchain,2018. All rights reseved</a>
+
+      </div>
+    </div>
+    <!--/.Copyright-->
+
+  </footer>
+  <!--/.Footer-->
+
+</body>
+
+
+
+https://codepen.io/magnusriga/pen/bKbWjx
+
+https://codepen.io/govind_chopade/pen/wvJWyvG
